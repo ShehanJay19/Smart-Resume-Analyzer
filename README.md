@@ -1,10 +1,10 @@
-Smart Resume Analyzer
+#Smart Resume Analyzer#
 
 Smart Resume Analyzer is a full-stack resume analysis system built using Laravel and a Flask-based machine learning microservice.
 The system extracts text from resumes (PDF/DOCX), detects name, email, skills, and generates a resume score using NLP.
 All analyzed data is stored in a MySQL database and displayed through a Laravel dashboard.
 
-Features
+#Features#
 Machine Learning (Flask)
 
 Extract text from PDF and DOCX files
