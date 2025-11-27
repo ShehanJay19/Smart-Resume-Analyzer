@@ -7,7 +7,7 @@ use App\Models\Admin;
 use Illuminate\Support\Facades\Hash;
 use Illuminate\Support\Facades\Session;
 
-class AdminAuthController extends Controller
+class AdminController extends Controller
 {
     public function showLogin()
     {
